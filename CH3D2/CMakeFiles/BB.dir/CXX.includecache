@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tnt/Desktop/LabsnProjects/COMPUTATIONAL GEOMETRY/Programming2/Παραδοτέα/CH3D2/BeneathBeyond.cpp
+CGAL/Exact_predicates_exact_constructions_kernel.h
+-
+CGAL/Polyhedron_incremental_builder_3.h
+-
+CGAL/point_generators_3.h
+-
+CGAL/algorithm.h
+-
+CGAL/Polyhedron_3.h
+-
+CGAL/enum.h
+-
+CGAL/IO/Geomview_stream.h
+-
+CGAL/IO/Polyhedron_geomview_ostream.h
+-
+iterator
+-
+iostream
+-
+fstream
+-
+cassert
+-
+string
+-
+cstdio
+-
+vector
+-
+ctime
+-
+list
+-
+
